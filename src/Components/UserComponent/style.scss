@@ -1,0 +1,25 @@
+.user-data{
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-decoration: none;
+    div{
+        img{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        }
+    }
+    div{
+        text-decoration: none;
+        p{
+        }
+    }
+}
+
+.repos-list{
+    width: 50%;
+    height: 500px;
+}

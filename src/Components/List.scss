@@ -1,0 +1,22 @@
+.alert-search{
+    display: flex;
+    justify-content: center;       
+}
+
+.data{
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-decoration: none;
+    img{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+    }
+    p{
+        align-self: center;
+        text-decoration: none;
+    }
+}
